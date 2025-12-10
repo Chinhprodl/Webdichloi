@@ -1,0 +1,5 @@
+{
+  "name": "BETA 1.4",
+  "description": "Một ứng dụng web hiệu quả để dịch hàng loạt tệp phụ đề (.srt) bằng Google Gemini AI. Thêm nhiều công việc vào hàng đợi và để hệ thống tự động xử lý.",
+  "requestFramePermissions": []
+}
